@@ -1,0 +1,15 @@
+/home/nikolai/Documents/c#/country/obj/Debug/net7.0/country.csproj.AssemblyReference.cache
+/home/nikolai/Documents/c#/country/obj/Debug/net7.0/country.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikolai/Documents/c#/country/obj/Debug/net7.0/country.AssemblyInfoInputs.cache
+/home/nikolai/Documents/c#/country/obj/Debug/net7.0/country.AssemblyInfo.cs
+/home/nikolai/Documents/c#/country/obj/Debug/net7.0/country.csproj.CoreCompileInputs.cache
+/home/nikolai/Documents/c#/country/bin/Debug/net7.0/country
+/home/nikolai/Documents/c#/country/bin/Debug/net7.0/country.deps.json
+/home/nikolai/Documents/c#/country/bin/Debug/net7.0/country.runtimeconfig.json
+/home/nikolai/Documents/c#/country/bin/Debug/net7.0/country.dll
+/home/nikolai/Documents/c#/country/bin/Debug/net7.0/country.pdb
+/home/nikolai/Documents/c#/country/obj/Debug/net7.0/country.dll
+/home/nikolai/Documents/c#/country/obj/Debug/net7.0/refint/country.dll
+/home/nikolai/Documents/c#/country/obj/Debug/net7.0/country.pdb
+/home/nikolai/Documents/c#/country/obj/Debug/net7.0/country.genruntimeconfig.cache
+/home/nikolai/Documents/c#/country/obj/Debug/net7.0/ref/country.dll
